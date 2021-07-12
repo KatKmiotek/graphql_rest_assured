@@ -1,0 +1,3 @@
+graphqltests/RunCucumberTest.class
+graphqltests/Graphql.class
+graphqltests/StepDefinitions.class
